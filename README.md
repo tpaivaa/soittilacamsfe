@@ -1,3 +1,3 @@
 # soittilacamsfe
 Soittila Camera FrontEnd app
-https§://willasoittila.azurewebsites.net/
+[View Here](https://willasoittila.azurewebsites.net/)
